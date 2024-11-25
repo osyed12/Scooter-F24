@@ -1,0 +1,16 @@
+[StartTime]
+suspension - side panels - Copy-Static 4.MFC=6s
+[SolverState]
+suspension - side panels - Copy-Static 4.MFC=2
+[MainFrame]
+suspension - side panels - Copy-Static 4.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+suspension - side panels - Copy-Static 4.MFC=No
+[SolverType]
+suspension - side panels - Copy-Static 4.MFC=Linear Analysis
+[StudyType]
+suspension - side panels - Copy-Static 4.MFC=0
+[StudyName]
+suspension - side panels - Copy-Static 4.MFC=Static 4
+[Solver]
+suspension - side panels - Copy-Static 4.MFC=Iterative
