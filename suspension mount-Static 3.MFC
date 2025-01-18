@@ -1,0 +1,16 @@
+[StartTime]
+suspension mount-Static 3.MFC=6s
+[SolverState]
+suspension mount-Static 3.MFC=2
+[MainFrame]
+suspension mount-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPBKCAAAAAMKBAAAAAJAEAAAAAPHCAAAAA
+[ShowMin]
+suspension mount-Static 3.MFC=No
+[SolverType]
+suspension mount-Static 3.MFC=Linear Analysis
+[StudyType]
+suspension mount-Static 3.MFC=0
+[StudyName]
+suspension mount-Static 3.MFC=Static 3
+[Solver]
+suspension mount-Static 3.MFC=Iterative
